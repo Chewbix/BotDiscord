@@ -110,4 +110,4 @@ const prefix = "!";
 });
 
 
-bot.login("ODA0MzQxNzYwMTQ2Mjc2NDIz.YBK7ow.UmNOV5abWbqQLNd2b28LzSu_4FM");
+bot.login(process.env.TOKEN);

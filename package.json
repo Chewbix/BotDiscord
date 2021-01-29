@@ -1,0 +1,6 @@
+{
+    "name": "visiobot",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
